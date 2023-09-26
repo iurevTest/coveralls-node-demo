@@ -2,6 +2,7 @@
 
 test
 test2
+еуые3
 
 This repo shows CI configuration examples for parallel build coverage merging when using [node-coveralls](https://github.com/nickmerwin/node-coveralls).
 
