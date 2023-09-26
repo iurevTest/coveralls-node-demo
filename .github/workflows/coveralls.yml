@@ -11,7 +11,7 @@ jobs:
   coveralls:
     runs-on: ubuntu-latest
     if: ${{ always() }}
-    needs: [test-linux, test-macos, test-windows]
+    needs: [test-linux]
     steps:
     - uses: coverallsapp/github-action@v2
       with:
