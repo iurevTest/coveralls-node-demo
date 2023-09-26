@@ -6,6 +6,7 @@ test2
 фыва
 qq23rf
 asdf
+123
 
 This repo shows CI configuration examples for parallel build coverage merging when using [node-coveralls](https://github.com/nickmerwin/node-coveralls).
 
