@@ -1,6 +1,6 @@
 name: Test all platforms
 
-on: [ push, pull_request, merge_group ]
+on: [ push, pull_request ]
 
 env:
   COVERALLS_SERVICE_NUMBER: ${{ github.run_id }}-${{ github.run_number }}-${{ github.run_attempt }}
